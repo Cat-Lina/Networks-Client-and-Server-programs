@@ -1,0 +1,16 @@
+Server response received on: 12/10/2018 00:24:55
+It took 0:00:00.003801 ms to receive a response from the server for the request to get songs for abba
+The response length is: 80
+Server response received on: 12/10/2018 00:25:00
+It took 0:00:00.005609 ms to receive a response from the server for the request to get songs for paul anka
+The response length is: 115
+Server response received on: 12/10/2018 00:38:13
+It took 0:00:00.006505 ms to receive a response from the server for the request to get songs for me
+The response length is: 35
+Server response received on: 12/10/2018 00:38:17
+It took 0:00:00.005063 ms to receive a response from the server for the request to get songs for no
+The response length is: 35
+Server response received on: 12/10/2018 00:38:25
+It took 0:00:00.007556 ms to receive a response from the server for the request to get songs for bla
+The response length is: 36
+Server response received on: 12/10/2018 00:42:20
